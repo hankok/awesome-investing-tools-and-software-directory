@@ -8,5 +8,15 @@
       "Calendar"
     ],
     "summary": "Pre-launch tool for discovering and following US cash merger-arbitrage deals, with sourced updates, deadlines and scenario calculations. Waitlist open."
+  },
+  {
+    "name": "Wave Radar",
+    "url": "https://waveradar.us",
+    "categories": [
+      "Screeners",
+      "Options",
+      "Market Sentiment"
+    ],
+    "summary": "Screens US, China A-share and Hong Kong stocks for equal-wave/Fibonacci extension levels and Chan theory structure, and shows gamma exposure, fair-value bands and a daily community fear-and-greed reading beside each chart. Free account available."
   }
 ]
